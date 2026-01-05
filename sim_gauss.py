@@ -18,3 +18,6 @@ plt.xlabel('steps')
 plt.ylabel('position')
 plt.title('10 Drunk sailors simulation - Gauss')
 plt.show()
+
+
+#print
